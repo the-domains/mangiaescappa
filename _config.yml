@@ -1,7 +1,7 @@
 name: mangiaescappa
 favicon: null
-layout_spectrum: 0.44657925446517766
-typography_spectrum: 0.8482444160617888
+layout_spectrum: 0.5409
+typography_spectrum: 0.80108
 title: Mangia e Scappa Italian Foods Ltd.
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#13111e'
+    - '#eae8f6'
+    - '#914f50'
+    - '#a19aac'
+    - '#334c22'
   brandStrength: 0.8194575579836965
   lightness: 0.7861246126703918
   saturation: 0.9249419730622321
