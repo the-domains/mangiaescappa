@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 0.5
-  brandStrength: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 0.5
   brandColors:
     - '#7293b4'
     - '#c3e7ff'
     - '#0f1211'
     - '#585045'
     - '#d67753'
-  lightness: 0.5
+  rhythmicContrast: 0.5
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: mangiaescappa
 favicon: null
+name: mangiaescappa
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.9892473
-layout_spectrum: 0
+layout_spectrum: 1
